@@ -53,6 +53,11 @@ Note: If you're using Linux Bash for Windows, [see this guide](https://www.howto
 
 ## License
 
-MIT
+## TIAGO COSTA DEV
+
+- [Portifólio](https://www.tiagocostadev.com.br)
+- [GitHub](https://github.com/CTiagoCosta)
+- [LinkedIn](https://www.linkedin.com/in/carlos-tiago-silva-costa-458b16224/)
+
 
 ---
